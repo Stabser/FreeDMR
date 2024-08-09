@@ -21,6 +21,7 @@
 {"id":"2169085","callsign":"JOZSI85","fname":"Jozsi, Patyod","name":"Jozsi","city":"Patyod","dept":"4766","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"302911","callsign":"RADIO1_ID","fname":"RadioID","name":"RadioID","city":"Vienne","dept":"","land":"208","state":"86","country":"France","remarks":"FRDMR"},
 {"id":"444000","callsign":"44DMR","fname":"Benjamin","name":"Benjamin","city":"Loire-Atlantique","dept":"","land":"208","state":"44","country":"France","remarks":"44DMR"},
+{"id":"2407149","callsign":"SA7BNT","fname":"Tim, Bruzaholm","city":"Bruzaholm","state":"Smaland","country":"Schweden","remarks":"","surname":null},
 {"id":"444210","callsign":"44DMR","fname":"Benjamin","name":"Benjamin","city":"Loire-Atlantique","dept":"","land":"208","state":"44","country":"France","remarks":"44DMR"},
 {"id":"446400","callsign":"FRS7900","fname":"Fabrice","name":"Fabrice","city":"Loire-Atlantique","dept":"","land":"208","state":"44","country":"France","remarks":"44DMR"},
 {"id":"446401","callsign":"44DMR","fname":"Hspot_Nantes","name":"Hspot_Nantes","city":"Loire-Atlantique","dept":"","land":"208","state":"44","country":"France","remarks":"44DMR"},
