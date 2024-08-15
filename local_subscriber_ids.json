@@ -5131,6 +5131,7 @@
 {"id":"2281238","callsign":"CH22PH","fname":"Passah","name":"Passah","city":"Switzerland","land":"228","state":"228","country":"Switzerland","remarks":"FRDMR"},
 {"id":"2312059","callsign":"FRS2312","fname":"Freddy","name":"Freddy","city":"Nord","dept":"","land":"208","state":"59","country":"France","remarks":"7360DMR"},
 {"id":"2325999","callsign":"KLSC","fname":"Klemens, Katsdorf","name":"Klemens","city":"Katsdorf","dept":"4223","land":"232","state":"Oberoesterreich","country":"Austria","remarks":"FreeDMR Austria"},
+{"id":"2327803","callsign":"35HBT","fname":"Gerhard","name":"","city":"","dept":"","land":"","state":"Oesterreich","country":"Austria","remarks":"Freeband.digital"},
 {"id":"2629084","callsign":"DO1ABZ","fname":"Andreas, Zoellnitz","name":"Andreas","city":"Zoellnitz","dept":"07751","land":"15","state":"Thueringen","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651001","callsign":"DLRB01","fname":"Rene, Hamburg","name":"Rene","city":"Hamburg","dept":"22159","land":"5","state":"Hamburg","country":"Germany","remarks":"FreeDMR Digital"},
 {"id":"2651002","callsign":"KARO500","fname":"Wolfgang, Hamburg","name":"Wolfgang","city":"Hamburg","dept":"21147","land":"5","state":"Hamburg","country":"Germany","remarks":"FreeDMR Digital"},
