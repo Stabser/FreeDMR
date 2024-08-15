@@ -5118,7 +5118,7 @@
 {"id":"2161113","callsign":"HZELLO","fname":"HZELLO, Szentes","name":"ZelloLink","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2161114","callsign":"YSFHU","fname":"Reflector FreeDMR Hungary","name":"YSF Reflector","city":"Szentes","dept":"6600","country":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2168000","callsign":"93SKARCSI","fname":"Karcsi, Szentes","name":"Karcsi","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
-{"id":"2169000","callsign":"HA8BKG","fname":"Karcsi, Szentes","name":"Karcsi","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
+{"id":"2168022","callsign":"HA8BKG","fname":"Karcsi, Szentes","name":"Karcsi","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169001","callsign":"638GYURI","fname":"Gyuri, Hatvan","name":"Gyuri","city":"Hatvan","dept":"3000","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169003","callsign":"PEPE","fname":"Tibi, Szolnok-Szandaszolos","name":"Tibor","city":"Szolnok","dept":"5000","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169005","callsign":"HB500","fname":"Budapest","name":"Hotspot GD-77","city":"Budapest","dept":"1055","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"}, 
