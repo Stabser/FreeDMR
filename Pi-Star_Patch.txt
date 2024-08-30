@@ -3,7 +3,7 @@
 # hier der Text:
 rpi-rw
 sudo rm configure.txt
-wget http://nenne.selfhosting.eu/configure.txt
+wget http://nenne.selfhost.eu/configure.txt
 sudo cp -u configure.txt /var/www/dashboard/admin/configure.php
 sudo rm configure.txt
 rpi-ro
