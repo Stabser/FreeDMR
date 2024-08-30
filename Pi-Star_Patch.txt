@@ -1,10 +1,10 @@
 # Im Browser die Pi-Star Seite öffnen, unter Expert ssh anklicken und anmelden,
 # dann den folgenden Text in der Konsole eingeben oder kopieren und mit "Enter" bestätigen.
-# hier der Text, danach Neustarten, danach sind Rufzeichen bis 12 Zeichen möglich
+# hier der Text:
 rpi-rw
 sudo rm configure.Text
 wget http://nenne.selfhosting.eu/configure.Text
 sudo cp -u configure.txt /var/www/dashboard/admin/configure.php
 sudo rm configure.txt
 rpi-ro
-
+# danach Neustarten, jetzt sind Rufzeichen bis 12 Zeichen möglich, Viel Spaß
