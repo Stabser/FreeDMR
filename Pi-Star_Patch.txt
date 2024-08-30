@@ -2,8 +2,8 @@
 # dann den folgenden Text in der Konsole eingeben oder kopieren und mit "Enter" bestätigen.
 # hier der Text:
 rpi-rw
-sudo rm configure.Text
-wget http://nenne.selfhosting.eu/configure.Text
+sudo rm configure.txt
+wget http://nenne.selfhosting.eu/configure.txt
 sudo cp -u configure.txt /var/www/dashboard/admin/configure.php
 sudo rm configure.txt
 rpi-ro
